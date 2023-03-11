@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678497144 source:g:\3 semestre\estrutura de dados prof rodrigo\modulo\my_math.cpp
+
+1678497716 source:g:\3 semestre\estrutura de dados prof rodrigo\modulo\main.cpp
+	<iostream>
+	"my_math.h"
+
+1678497372 g:\3 semestre\estrutura de dados prof rodrigo\modulo\my_math.h
+
