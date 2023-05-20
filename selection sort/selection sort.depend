@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683933828 source:g:\3 semestre\estrutura de dados prof rodrigo\selection sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
